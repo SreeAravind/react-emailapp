@@ -1,0 +1,24 @@
+self.__RSC_CSS_MANIFEST={
+  "__entry_css_mods__": {
+    "F:\\react app assignment\\react-email-starter\\.react-email\\src\\app\\page": [
+      "F:\\react app assignment\\react-email-starter\\.react-email\\src\\styles\\globals.css",
+      "F:\\react app assignment\\react-email-starter\\.react-email\\node_modules\\next\\font\\google\\target.css?{\"path\":\"src\\\\app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-inter\"}],\"variableName\":\"inter\"}"
+    ],
+    "F:\\react app assignment\\react-email-starter\\.react-email\\src\\app\\preview\\[slug]\\page": [
+      "F:\\react app assignment\\react-email-starter\\.react-email\\src\\styles\\globals.css",
+      "F:\\react app assignment\\react-email-starter\\.react-email\\node_modules\\next\\font\\google\\target.css?{\"path\":\"src\\\\app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-inter\"}],\"variableName\":\"inter\"}"
+    ]
+  },
+  "F:\\react app assignment\\react-email-starter\\.react-email\\src\\app\\page.tsx": [
+    "F:\\react app assignment\\react-email-starter\\.react-email\\node_modules\\next\\font\\google\\target.css?{\"path\":\"src\\\\app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-inter\"}],\"variableName\":\"inter\"}",
+    "F:\\react app assignment\\react-email-starter\\.react-email\\src\\styles\\globals.css"
+  ],
+  "F:\\react app assignment\\react-email-starter\\.react-email\\src\\app\\layout.tsx": [
+    "F:\\react app assignment\\react-email-starter\\.react-email\\node_modules\\next\\font\\google\\target.css?{\"path\":\"src\\\\app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-inter\"}],\"variableName\":\"inter\"}",
+    "F:\\react app assignment\\react-email-starter\\.react-email\\src\\styles\\globals.css"
+  ],
+  "F:\\react app assignment\\react-email-starter\\.react-email\\src\\app\\preview\\[slug]\\page.tsx": [
+    "F:\\react app assignment\\react-email-starter\\.react-email\\node_modules\\next\\font\\google\\target.css?{\"path\":\"src\\\\app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-inter\"}],\"variableName\":\"inter\"}",
+    "F:\\react app assignment\\react-email-starter\\.react-email\\src\\styles\\globals.css"
+  ]
+}
